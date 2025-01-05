@@ -2,6 +2,8 @@
 
 SAR Ship Detector Using Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance.
 
+SAR Ship Detector Using Cross-stage Feature Fusion and Decoupled Head with Mutual Guidance, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025),--Accepted.
+
 # Preparation work
 
 We have used the following versions of OS and softwares:
